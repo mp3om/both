@@ -1,0 +1,2 @@
+doceri=document.domain;if(doceri=='mp3om.wapka.mobi'){var adParams = {s: 1000205824, w: 468, h: 60, c: 4, blank: true, title: "COLOCA AQUI EL NOMBRE DE ARCHIVO / VIDEO DINAMICAMENTE OPCIONALMENTE" };  document.write('<script src="http://js.srcsmrtgs.com/js/ad.js"></script>');}else if(doceri=='mp3om.tk'){var adParams = {s: 1000221211, w: 468, h: 60, c: 4, blank: true, title: "COLOCA AQUI EL NOMBRE DE ARCHIVO / VIDEO DINAMICAMENTE OPCIONALMENTE" };
+  document.write('<script src="http://js.srcsmrtgs.com/js/ad.js"></script>');}
